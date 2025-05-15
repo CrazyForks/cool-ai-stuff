@@ -50,7 +50,7 @@ To be added to this list, your API must:
 | ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | [NagaAI](https://discord.gg/8ywEPhnJy4)    | 3,470 | ❌ Forbidden | ❌          | [ZentixUA](https://github.com/ZentixUA) | [Models](https://api.naga.ac/v1/models)     | Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).                            |
 | [VoidAI](https://discord.gg/2nQwkvFFj6)    | 628   | ✅ Limited   | ❌          | [acatto](https://github.com/acattoXD)   | [Models](https://api.voidai.app/v1/models)      | An odd api with historically some other ai-related projects. Now focused on just APIs it seems.        |
-| [FresedGPT](https://discord.gg/AWzY3b2DJH) | 400   | ❌ Forbidden | ❌          | [Fresed](https://github.com/qazplmqaz)  | [Models](https://fresedapi.fun/v1/models) | One of the best APIs out there, but struggling to recover after a server nuke.                           |
+| [FresedGPT](https://discord.gg/AWzY3b2DJH) | 439   | ❌ Forbidden | ❌          | [Fresed](https://github.com/qazplmqaz)  | [Models](https://fresedapi.fun/v1/models) | One of the best APIs out there, but struggling to recover after a server nuke.                           |
 
 </details>
 
@@ -61,7 +61,7 @@ To be added to this list, your API must:
 | ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,513 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer) | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service. |
 | [FeathrAI](https://discord.gg/WgRsRfH38E) | 1,020   | ❌ Forbidden | ❌                                                | [ichatei](https://feathrai.xyz)        | [Models](https://feathrai.xyz/v1/models)   | [Place has some lore.](https://rentry.co/sjlore)                                              |
-| [MNN](https://discord.gg/xKmsCCzUFW)       | 193   | ✅ Limited   | ❌          | [MNN](https://github.com/mkshustov)     | [Models](https://api.mnnai.ru/v1/models)        | Long-term standing small AI API with some useful models.                                               |
+| [MNN](https://discord.gg/xKmsCCzUFW)       | 243   | ✅ Limited   | ❌          | [MNN](https://github.com/mkshustov)     | [Models](https://api.mnnai.ru/v1/models)        | Long-term standing small AI API with some useful models.                                               |
 
 </details>
 
