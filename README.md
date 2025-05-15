@@ -266,7 +266,7 @@ To be added to this list, your API must:
   </tr>
   <tr>
     <td><b><a href="https://discord.gg/2nQwkvFFj6">VoidAI</a></b></td>
-    <td><a href="https://voidai.xyz/pricing">Details</a></td>
+    <td><a href="https://voidai.app/pricing">Details</a></td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
