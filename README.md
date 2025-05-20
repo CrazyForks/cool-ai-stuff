@@ -71,7 +71,7 @@ To be added to this list, your API must:
 | Service                                   | Users | NSFW/RP      | Open Source                                       | Owner(s)                               | Models                                     | Notes                                                                                         |
 | ----------------------------------------- | ----- | ------------ | ------------------------------------------------- | -------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | [RespyTech](https://discord.gg/VQQyCNFnJA) | 666    | ❌ Forbidden | ❌ |[respy](https://github.com/rimunace)| [Models](https://api.rimunace.xyz/v1/models)| The AI API is however a layer two, being a 'collection' of all APIs on this list here.                 |
-| [NexeonAI](https://discord.gg/5DfYgqX9DU)  | 375   | ❌ Forbidden | ❌                                                    | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)         | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent.        |
+| [NexeonAI](https://discord.gg/5DfYgqX9DU)  | 375   | ❌ Forbidden | ❌                                                    | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)         | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent. |
 
 </details>
 
