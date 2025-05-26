@@ -39,18 +39,18 @@ To be added to this list, your API must:
 | -------------------------------------------- | ----- | ------------- | -------------------------------------------------- | ----------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [zukijourney](https://discord.gg/DWU2egFnHh) | 7,751 | ✅ Allowed    | ✅ [Repo](https://github.com/zukijourney/api-oss/) | [ZJ Team](https://zukijourney.com/)       | [Models](https://docs.zukijourney.com/models)      | The undisputed leader of the AI APIs, the largest & oldest of its kind still running. Offers other popular AI-related bots too. |
 | [ElectronHub](https://discord.gg/4xg2TM3mNP) | 2,872 | ✅ Use /nsfw/ | ❌                                                 | [snowby666](https://github.com/snowby666) | [Models](https://playground.electronhub.top/model) | Developed by the maintainer of the [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper). Very RP-friendly.           |
-| [HelixMind](https://discord.gg/466vKB47JH) | 2,275 | ❌ Forbidden | ❌          | [faer1x](https://github.com/faer1x)     | [Models](https://helixmind.online/model)    | Subscription-based service that 'just about' fits into the g4f principles definition with its free tier. |
+| [HelixMind](https://discord.gg/466vKB47JH)   | 2,275 | ❌ Forbidden  | ❌                                                 | [faer1x](https://github.com/faer1x)       | [Models](https://helixmind.online/model)           | Subscription-based service that 'just about' fits into the g4f principles definition with its free tier.                        |
 
 </details>
 
 <details>
 <summary><b>Tier 2 — Standard, Basic AI API Services</b></summary>
 
-| Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                | Models                                      | Notes                                                                                                    |
-| ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [NagaAI](https://discord.gg/8ywEPhnJy4)    | 3,459 | ❌ Forbidden | ❌          | [ZentixUA](https://github.com/ZentixUA) | [Models](https://api.naga.ac/v1/models)     | Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).                            |
-| [VoidAI](https://discord.gg/2nQwkvFFj6)    | 669   | ✅ Limited   | ❌          | [acatto](https://github.com/acattoXD)   | [Models](https://api.voidai.app/v1/models)      | An odd api with historically some other ai-related projects. Now focused on just APIs it seems.        |
-| [FresedGPT](https://discord.gg/AWzY3b2DJH) | 454   | ❌ Forbidden | ❌          | [Fresed](https://github.com/qazplmqaz)  | [Models](https://fresedapi.fun/v1/models) | One of the best APIs out there, but struggling to recover after a server nuke.                           |
+| Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                | Models                                     | Notes                                                                                           |
+| ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| [NagaAI](https://discord.gg/8ywEPhnJy4)    | 3,459 | ❌ Forbidden | ❌          | [ZentixUA](https://github.com/ZentixUA) | [Models](https://api.naga.ac/v1/models)    | Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).                   |
+| [VoidAI](https://discord.gg/2nQwkvFFj6)    | 669   | ✅ Limited   | ❌          | [acatto](https://github.com/acattoXD)   | [Models](https://api.voidai.app/v1/models) | An odd api with historically some other ai-related projects. Now focused on just APIs it seems. |
+| [FresedGPT](https://discord.gg/AWzY3b2DJH) | 454   | ❌ Forbidden | ❌          | [Fresed](https://github.com/qazplmqaz)  | [Models](https://fresedapi.fun/v1/models)  | One of the best APIs out there, but struggling to recover after a server nuke.                  |
 
 </details>
 
@@ -60,7 +60,7 @@ To be added to this list, your API must:
 | Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                | Models                                          | Notes                                                                                                  |
 | ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,524 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer) | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service. |
-| [FeathrAI](https://discord.gg/WgRsRfH38E) | 1,012   | ❌ Forbidden | ❌                                                | [ichatei](https://feathrai.xyz)        | [Models](https://feathrai.xyz/v1/models)   | [Place has some lore.](https://rentry.co/sjlore)                                              |
+| [FeathrAI](https://discord.gg/WgRsRfH38E)  | 1,012 | ❌ Forbidden | ❌          | [ichatei](https://feathrai.xyz)         | [Models](https://feathrai.xyz/v1/models)        | [Place has some lore.](https://rentry.co/sjlore)                                                       |
 | [MNN](https://discord.gg/xKmsCCzUFW)       | 266   | ✅ Limited   | ❌          | [MNN](https://github.com/mkshustov)     | [Models](https://api.mnnai.ru/v1/models)        | Long-term standing small AI API with some useful models.                                               |
 
 </details>
@@ -68,21 +68,22 @@ To be added to this list, your API must:
 <details>
 <summary><b>Tier 4 — Experimental, Unstable, Open-Access APIs</b></summary>
 
-| Service                                   | Users | NSFW/RP      | Open Source                                       | Owner(s)                               | Models                                     | Notes                                                                                         |
-| ----------------------------------------- | ----- | ------------ | ------------------------------------------------- | -------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| [RespyTech](https://discord.gg/VQQyCNFnJA) | 664    | ❌ Forbidden | ❌ |[respy](https://github.com/rimunace)| [Models](https://api.rimunace.xyz/v1/models)| The AI API is however a layer two, being a 'collection' of all APIs on this list here.                 |
-| [NexeonAI](https://discord.gg/5DfYgqX9DU)  | 374   | ❌ Forbidden | ❌                                                    | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)         | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent. |
+| Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                  | Models                                       | Notes                                                                                                 |
+| ------------------------------------------ | ----- | ------------ | ----------- | ----------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [RespyTech](https://discord.gg/VQQyCNFnJA) | 664   | ❌ Forbidden | ❌          | [respy](https://github.com/rimunace)      | [Models](https://api.rimunace.xyz/v1/models) | The AI API is however a layer two, being a 'collection' of all APIs on this list here.                |
+| [NexeonAI](https://discord.gg/5DfYgqX9DU)  | 374   | ❌ Forbidden | ❌          | [Sakuya](https://github.com/LiveGamer101) | [Models](https://nexeonai.com/v1/models)     | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent. |
 
 </details>
 
 <details>
 <summary><b>Tier 5 — Caution Advised! Questionable AI API Offerings</b></summary>
 
-| Service                                    | Users | NSFW/RP      | Open Source                                           | Owner(s)                                  | Models                                           | Why Potentially Misleading?                                                                                  |
-| ------------------------------------------ | ----- | ------------ | ----------------------------------------------------- | ----------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| [ShapesInc](https://discord.gg/shapes) | 225311 | ✅ Limited | ❌                                                    | [ShapesInc](https://github.com/shapesinc)     | [Models](https://shapes.inc/developer)           | Doesn't need an introduction. Only here due to a unfortunate techniality of the definition of g4f - to which they SOMEHOW count. |
-| [ZanityAI](https://discord.gg/8GgUak8KrK)    | 1,444 | 💰 Paid only  | ❌                                                 | [Voidii](https://github.com/void6670)     | [Models](https://api.zanity.xyz/v1/models)         | did not pay his debt of 277 dolar to Godinhas                       |
-| [exomlapi](https://discord.gg/9bF49xEyzD)   | 191 | ✅ Limited   | ✅ [Repo](https://github.com/exomlapi/exomlapi)                                                 | [exomlapi](https://github.com/exomlapi)     |  [Models](https:/exomlapi.com/v1/models)           | [De-Facto Owner is a subhumanely terrible being.](https://rentry.co/hitlerofg4f)    [Yes, this is yet another meow/cably project](https://rentry.co/itsalwaysmeow)                         |
+| Service                                   | Users  | NSFW/RP      | Open Source                                     | Owner(s)                                  | Models                                     | Why Potentially Misleading?                                                                                                                                     |
+| ----------------------------------------- | ------ | ------------ | ----------------------------------------------- | ----------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ShapesInc](https://discord.gg/shapes)    | 225311 | ✅ Limited   | ❌                                              | [ShapesInc](https://github.com/shapesinc) | [Models](https://shapes.inc/developer)     | Doesn't need an introduction. Only here due to a unfortunate techniality of the definition of g4f - to which they SOMEHOW count.                                |
+| [ZanityAI](https://discord.gg/8GgUak8KrK) | 1,444  | 💰 Paid only | ❌                                              | [Voidii](https://github.com/void6670)     | [Models](https://api.zanity.xyz/v1/models) | did not pay his debt of 277 dolar to Godinhas                                                                                                                   |
+| [exomlapi](https://discord.gg/9bF49xEyzD) | 191    | ✅ Limited   | ✅ [Repo](https://github.com/exomlapi/exomlapi) | [exomlapi](https://github.com/exomlapi)   | [Models](https:/exomlapi.com/v1/models)    | [De-Facto Owner is a subhumanely terrible being.](https://rentry.co/hitlerofg4f) [Yes, this is yet another meow/cably project](https://rentry.co/itsalwaysmeow) |
+
 </details>
 
 <details>
@@ -94,8 +95,8 @@ To be added to this list, your API must:
 | [NexusAI](https://discord.gg/YA6ESvHsCF)                      | 6,874  | Continuation of an older project. Provides UIs for image and ai text generation.                                                    | Moonman/Pushkar is a known credit card fraudster and self-advertised his projects in many places before. |
 | [FreeGPT4](https://discord.gg/free-gpt-4-1106520284967735316) | 4,819  | Ancient community of gpt-4-free individuals. Plenty good AI-related content.                                                        | Ran by [@lomusire](https://github.com/Lomusire)                                                          |
 | [SpyrkAI](https://discord.gg/A6mhxXMcWe)                      | 631    | AI Labs founded by (some) ex-community members; aims to create a free & OSS alt. to OpenAI, leveraging growing interest in AI APIs. | Currently a slightly inactive server, but some behind-the-scenes work continues.                         |
-| [OpenShapes](https://discord.gg/S4djBxRehM)                   | 167     | Project server for 'open source character-ai-like discord bots' - the OpenShapes platform.                                          | Still a WIP - project wise. Selfhost option works!                                                       |
-| [serika.dev](https://discord.gg/dThZb9MNxa)                   | 52     | Project server for 'open source character-ai-like website characters' - the serika.dev platform                                         | Ran by a friend of the ZJ team.                                                   |
+| [OpenShapes](https://discord.gg/S4djBxRehM)                   | 167    | Project server for 'open source character-ai-like discord bots' - the OpenShapes platform.                                          | Still a WIP - project wise. Selfhost option works!                                                       |
+| [serika.dev](https://discord.gg/dThZb9MNxa)                   | 52     | Project server for 'open source character-ai-like website characters' - the serika.dev platform                                     | Ran by a friend of the ZJ team.                                                                          |
 
 </details>
 
