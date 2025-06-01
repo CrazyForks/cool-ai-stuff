@@ -38,7 +38,7 @@ To be added to this list, your API must:
 | Service                                      | Users | NSFW/RP       | Open Source                                        | Owner(s)                                  | Models                                             | Notes                                                                                                                           |
 | -------------------------------------------- | ----- | ------------- | -------------------------------------------------- | ----------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [zukijourney](https://discord.gg/DWU2egFnHh) | 7,751 | ✅ Allowed    | ✅ [Repo](https://github.com/zukijourney/api-oss/) | [ZJ Team](https://zukijourney.com/)       | [Models](https://docs.zukijourney.com/models)      | The undisputed leader of the AI APIs, the largest & oldest of its kind still running. Offers other popular AI-related bots too. |
-| [ElectronHub](https://discord.gg/4xg2TM3mNP) | 2,872 | ✅ Use /nsfw/ | ❌                                                 | [snowby666](https://github.com/snowby666) | [Models](https://playground.electronhub.top/model) | Developed by the maintainer of the [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper). Very RP-friendly.           |
+| [ElectronHub](https://discord.gg/4xg2TM3mNP) | 2,872 | ✅ Use /nsfw/ | ❌                                                 | [snowby666](https://github.com/snowby666) | [Models](https://playground.electronhub.ai/model) | Developed by the maintainer of the [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper). Very RP-friendly.           |
 | [HelixMind](https://discord.gg/466vKB47JH)   | 2,275 | ❌ Forbidden  | ❌                                                 | [faer1x](https://github.com/faer1x)       | [Models](https://helixmind.online/model)           | Subscription-based service that 'just about' fits into the g4f principles definition with its free tier.                        |
 
 </details>
@@ -128,7 +128,7 @@ To be added to this list, your API must:
   </tr>
   <tr>
     <td><b><a href="https://discord.gg/4xg2TM3mNP">ElectronHub</a></b></td>
-    <td><a href="https://www.electronhub.top/pricing">Details</a></td>
+    <td><a href="https://www.electronhub.ai/pricing">Details</a></td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
@@ -214,7 +214,7 @@ To be added to this list, your API must:
   </tr>
   <tr>
     <td><b><a href="https://discord.gg/4xg2TM3mNP">ElectronHub</a></b></td>
-    <td><a href="https://www.electronhub.top/pricing">Details</a></td>
+    <td><a href="https://www.electronhub.ai/pricing">Details</a></td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
