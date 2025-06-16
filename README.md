@@ -188,7 +188,7 @@ To be added to this list, your API must:
     <td align="center">❌</td>
   </tr>
    <tr>
-    <td><b><a href="https://discord.gg/c2pyvjU3d3">MNN</a></b></td>
+    <td><b><a href="https://discord.gg/c2pyvjU3d3">Nustjourney</a></b></td>
     <td><a href="https://nustjourney.mirandasite.online/v1/models">Details</a></td>
     <td align="center">✅</td>
     <td align="center">💰</td>
@@ -198,7 +198,7 @@ To be added to this list, your API must:
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td><b><a href="https://discord.gg/XpGtjrQj9M">MNN</a></b></td>
+    <td><b><a href="https://discord.gg/XpGtjrQj9M">HCAP</a></b></td>
     <td><a href="https://hcap.ai/v1/models">Details</a></td>
     <td align="center">✅</td>
     <td align="center">✅</td>
