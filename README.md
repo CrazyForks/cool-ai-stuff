@@ -72,7 +72,7 @@ To be added to this list, your API must:
 | -------------------------------------------- | ----- | ------------ | ----------- | ----------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
 | [FeathrAI](https://discord.gg/WgRsRfH38E)    | 1,053 | ❌ Forbidden | ❌          | [ichatei](https://feathrai.xyz)     | [Models](https://feathrai.xyz/v1/models)                   | [Place has some lore.](https://rentry.co/thestoryofauthenticity) |
 | [Nustjourney](https://discord.gg/c2pyvjU3d3) | 100   | ✅ Allowed   | ❌          | [DOG4IK](https://github.com/nustai) | [Models](https://nustjourney.mirandasite.online/v1/models) | Odd small API that is focused on Russians.                       |
-| [hcap.ai](https://discord.gg/XpGtjrQj9M)     | 78    | ✅ Allowed   | ❌          | [DOG4IK](https://github.com/nustai) | [Models](https://nustjourney.mirandasite.online/v1/models) | Small API with new developers to the space. Some creativity.     |
+| [hcap.ai](https://discord.gg/XpGtjrQj9M)     | 78    | ✅ Allowed   | ❌          | [mehhovcki](https://github.com/mehhovcki-dev) | [Models](https://hcap.ai/v1/models) | Small API with new developers to the space. Some creativity.     |
 
 </details>
 
