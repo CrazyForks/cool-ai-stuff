@@ -58,10 +58,10 @@ To be added to this list, your API must:
 <summary><b>Tier 3 — 'Inconsistent' APIs</b></summary>
 
 | Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                | Models                                          | Notes                                                                                                  |
-| ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| ------------------------------------------ |-------| ------------ | ----------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | [WebraftAI](https://discord.gg/vbb2NQuWdR) | 1,528 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer) | [Models](https://api.webraft.in/freeapi/models) | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service. |
 | [FresedGPT](https://discord.gg/AWzY3b2DJH) | 489   | ❌ Forbidden | ❌          | [Fresed](https://github.com/qazplmqaz)  | [Models](https://fresedapi.fun/v1/models)       | One of the best APIs out there, but struggling to recover after a server nuke.                         |
-| [MNN](https://discord.gg/xKmsCCzUFW)       | 310   | ✅ Limited   | ❌          | [MNN](https://github.com/mkshustov)     | [Models](https://api.mnnai.ru/v1/models)        | Long-term standing small AI API with some useful models.                                               |
+| [MNN](https://discord.gg/xKmsCCzUFW)       | 315   | ✅ Limited   | ❌          | [MNN](https://github.com/mkshustov)     | [Models](https://api.mnnai.ru/v1/models)        | Long-term standing small AI API with some useful models.                                               |
 
 </details>
 
@@ -185,7 +185,7 @@ To be added to this list, your API must:
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
   </tr>
    <tr>
     <td><b><a href="https://discord.gg/c2pyvjU3d3">Nustjourney</a></b></td>
@@ -282,6 +282,16 @@ To be added to this list, your API must:
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://discord.gg/xKmsCCzUFW">MNN</a></b></td>
+    <td><a href="https://mnnai.ru/#pricing">Details</a></td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
   </tr>
 </table>
 
