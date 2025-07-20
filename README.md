@@ -35,22 +35,22 @@ To be added to this list, your API must:
 <details open>
 <summary><b>Tier 1 — Established, Premium-Service AI API Leaders</b></summary>
 
-| Service                                      | Users | NSFW/RP       | Open Source                                        | Owner(s)                                  | Models                                            | Notes                                                                                                                                                                 |
-| -------------------------------------------- | ----- | ------------- | -------------------------------------------------- | ----------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [zukijourney](https://discord.gg/DWU2egFnHh) | 7,792 | ✅ Allowed    | ✅ [Repo](https://github.com/zukijourney/api-oss/) | [ZJ Team](https://zukijourney.com/)       | [Models](https://docs.zukijourney.com/models)     | The undisputed leader of the AI APIs, the largest & oldest of its kind still running. Offers other popular AI-related bots too.                                       |
-| [ElectronHub](https://discord.gg/4xg2TM3mNP) | 3,096 | ✅ Use /nsfw/ | ❌                                                 | [snowby666](https://github.com/snowby666) | [Models](https://playground.electronhub.ai/model) | Developed by the ex-maintainer of the [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper). Very RP-friendly.                                              |
-| [HelixMind](https://discord.gg/466vKB47JH)   | 2,602 | ❌ Forbidden  | ❌                                                 | [faer1x](https://github.com/faer1x)       | [Models](https://helixmind.online/model)          | Subscription-based service that 'just about' fits into the g4f principles definition with its free tier, with some [oddity](https://rentry.co/thestoryofauthenticity) |
+| Service                                      | Users | NSFW/RP       | Open Source                                        | Owner(s)                                  | Models                                            | Notes                                                                                                                           |
+| -------------------------------------------- | ----- | ------------- | -------------------------------------------------- | ----------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [zukijourney](https://discord.gg/DWU2egFnHh) | 7,792 | ✅ Allowed    | ✅ [Repo](https://github.com/zukijourney/api-oss/) | [ZJ Team](https://zukijourney.com/)       | [Models](https://docs.zukijourney.com/models)     | The undisputed leader of the AI APIs, the largest & oldest of its kind still running. Offers other popular AI-related bots too. |
+| [ElectronHub](https://discord.gg/4xg2TM3mNP) | 3,096 | ✅ Use /nsfw/ | ❌                                                 | [snowby666](https://github.com/snowby666) | [Models](https://playground.electronhub.ai/model) | Developed by the ex-maintainer of the [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper). Very RP-friendly.        |
+| [ZanityAI](https://discord.gg/8GgUak8KrK)    | 2,039 | 💰 Paid only  | ❌                                                 | [Voidii](https://github.com/void6670)     | [Models](https://api.zanity.xyz/v1/models)        | solid service that has been long-running and focused on providing a rp experience.                                              |
 
 </details>
 
 <details>
 <summary><b>Tier 2 — Standard, Basic AI API Services</b></summary>
 
-| Service                                   | Users | NSFW/RP      | Open Source | Owner(s)                                | Models                                     | Notes                                                                                           |
-| ----------------------------------------- | ----- | ------------ | ----------- | --------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| [NagaAI](https://discord.gg/8ywEPhnJy4)   | 3,523 | ❌ Forbidden | ❌          | [ZentixUA](https://github.com/ZentixUA) | [Models](https://api.naga.ac/v1/models)    | Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).                   |
-| [ZanityAI](https://discord.gg/8GgUak8KrK) | 2,039 | 💰 Paid only | ❌          | [Voidii](https://github.com/void6670)   | [Models](https://api.zanity.xyz/v1/models) | solid service that has been long-running and focused on providing a rp experience.              |
-| [VoidAI](https://discord.gg/2nQwkvFFj6)   | 1,114 | ✅ Limited   | ❌          | [acatto](https://github.com/acattoXD)   | [Models](https://api.voidai.app/v1/models) | An odd api with historically some other ai-related projects. Now focused on just APIs it seems. |
+| Service                                    | Users | NSFW/RP      | Open Source | Owner(s)                                | Models                                     | Notes                                                                                                                                                                 |
+| ------------------------------------------ | ----- | ------------ | ----------- | --------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [NagaAI](https://discord.gg/8ywEPhnJy4)    | 3,523 | ❌ Forbidden | ❌          | [ZentixUA](https://github.com/ZentixUA) | [Models](https://api.naga.ac/v1/models)    | Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).                                                                                         |
+| [HelixMind](https://discord.gg/466vKB47JH) | 2,602 | ❌ Forbidden | ❌          | [faer1x](https://github.com/faer1x)     | [Models](https://helixmind.online/model)   | Subscription-based service that 'just about' fits into the g4f principles definition with its free tier, with some [oddity](https://rentry.co/thestoryofauthenticity) |
+| [VoidAI](https://discord.gg/2nQwkvFFj6)    | 1,114 | ✅ Limited   | ❌          | [acatto](https://github.com/acattoXD)   | [Models](https://api.voidai.app/v1/models) | An odd api with historically some other ai-related projects. Now focused on just APIs it seems.                                                                       |
 
 </details>
 
@@ -82,7 +82,6 @@ To be added to this list, your API must:
 
 | Service                                   | Users | NSFW/RP      | Open Source | Owner(s)                                    | Models                                       | Why Potentially Misleading?                                                                                                                         |
 | ----------------------------------------- | ----- | ------------ | ----------- | ------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ClashAI](https://clashai.eu)             | 1,450 | ✅ Limited   | ❌          | Unknown                                     | [Models](https://api.clashai.eu/v1/models)   | Extremely shady behavior of continious 'pauses' and 'restarts' of their service. No ToS/Privacy Policy - fake reviews on site - stay away.          |
 | [exomlapi](https://discord.gg/m9KXeQbxEN) | 735   | ❌ Forbidden | ❌          | [meow_18838](https://rentry.co/hitlerofg4f) | [Models](https://api.exomlapi.com/v1/models) | [Owner](https://rentry.co/hitlerofg4f) is a [self-admitted](https://files.catbox.moe/qw5abc.png) horrible [being.](https://rentry.co/itsalwaysmeow) |
 | [NexeonAI](https://discord.gg/5DfYgqX9DU) | 409   | ❌ Forbidden | ❌          | [Sakuya](https://github.com/LiveGamer101)   | [Models](https://nexeonai.com/v1/models)     | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent.                                               |
 
@@ -139,22 +138,22 @@ To be added to this list, your API must:
     <td align="center">✅</td>
   </tr>
   <tr>
+    <td><b><a href="https://discord.gg/8GgUak8KrK">ZanityAI</a></b></td>
+    <td><a href="https://docs.zanity.xyz">Details</a></td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">💰</td>
+    <td align="center">✅</td>
+    <td align="center">❌</td>
+    <td align="center">❌</td>
+  </tr>
+    <tr>
     <td><b><a href="https://discord.gg/466vKB47JH">HelixMind</a></b></td>
     <td><a href="https://helixmind.online/#pricing">Details</a></td>
     <td align="center">💰</td>
     <td align="center">💰</td>
     <td align="center">💰</td>
     <td align="center">💰</td>
-    <td align="center">❌</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://discord.gg/8GgUak8KrK">ZanityAI</a></b></td>
-    <td><a href="https://docs.zanity.xyz">Details</a></td>
-    <td align="center">💰</td>
-    <td align="center">✅</td>
-    <td align="center">💰</td>
-    <td align="center">✅</td>
     <td align="center">❌</td>
     <td align="center">❌</td>
   </tr>
@@ -176,17 +175,7 @@ To be added to this list, your API must:
     <td align="center">💰</td>
     <td align="center">💰</td>
     <td align="center">💰</td>
-    <td align="center">❌</td>
-  </tr>
-   <tr>
-    <td><b><a href="https://discord.gg/AWzY3b2DJH">FresedAPI</a></b></td>
-    <td><a href="https://api.fresedapi.fun/v1/models">Details</a></td>
-    <td align="center">✅</td>
     <td align="center">💰</td>
-    <td align="center">✅</td>
-    <td align="center">✅</td>
-    <td align="center">❌</td>
-    <td align="center">❌</td>
   </tr>
    <tr>
     <td><b><a href="https://discord.gg/xKmsCCzUFW">MNN</a></b></td>
@@ -207,6 +196,36 @@ To be added to this list, your API must:
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
+  </tr>
+   <tr>
+    <td><b><a href="https://discord.gg/ezXZ8wpprc">NavyAPI</a></b></td>
+    <td><a href="https://api.navy/v1/models">Details</a></td>
+    <td align="center">✅</td>
+    <td align="center">💰</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">💰</td>
+    <td align="center">✅</td>
+  </tr>
+   <tr>
+    <td><b><a href="https://discord.gg/WgRsRfH38E">Kimetsu</a></b></td>
+    <td><a href="https://api.kimetsu.ai/v1/models">Details</a></td>
+    <td align="center">💰</td>
+    <td align="center">✅</td>
+    <td align="center">💰</td>
+    <td align="center">✅</td>
+    <td align="center">❌</td>
+    <td align="center">❌</td>
+  </tr>
+    <tr>
+    <td><b><a href="https://discord.gg/WgRsRfH38E">VoltAI</a></b></td>
+    <td><a href="https://api.voltapi.online/v1/models">Details</a></td>
+    <td align="center">💰</td>
+    <td align="center">💰</td>
+    <td align="center">💰</td>
+    <td align="center">✅</td>
+    <td align="center">❌</td>
+    <td align="center">✅</td>
   </tr>
 </table>
 
