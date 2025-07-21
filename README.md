@@ -60,8 +60,8 @@ To be added to this list, your API must:
 | Service                                  | Users | NSFW/RP      | Open Source | Owner(s)                            | Models                                     | Notes                                                            |
 | ---------------------------------------- | ----- | ------------ | ----------- | ----------------------------------- | ------------------------------------------ | ---------------------------------------------------------------- |
 | [Kimetsu](https://discord.gg/WgRsRfH38E) | 2,061 | ❌ Forbidden | ❌          | [ichatei](https://kimetsu.ai)       | [Models](https://api.kimetsu.ai/v1/models) | [Place has some lore.](https://rentry.co/thestoryofauthenticity) |
+| [WebraftAI](https://discord.gg/vbb2NQuWdR)   | 1,553 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer)       | [Models](https://api.webraft.in/freeapi/models)            | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service. |
 | [MNN](https://discord.gg/xKmsCCzUFW)     | 372   | ✅ Limited   | ❌          | [MNN](https://github.com/mkshustov) | [Models](https://api.mnnai.ru/v1/models)   | Long-term standing small AI API with some useful models.         |
-| [NavyAPI](https://discord.gg/ezXZ8wpprc) | 367   | ✅ Allowed   | ❌          | [navy](https://api.navy)            | [Models](https://api.navy/v1/models)       | Small API with a surprisingly large amount of models.            |
 
 </details>
 
@@ -70,7 +70,6 @@ To be added to this list, your API must:
 
 | Service                                      | Users | NSFW/RP      | Open Source | Owner(s)                                      | Models                                                     | Notes                                                                                                  |
 | -------------------------------------------- | ----- | ------------ | ----------- | --------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [WebraftAI](https://discord.gg/vbb2NQuWdR)   | 1,553 | ❌ Forbidden | ❌          | [ds_gamer](https://github.com/ds-gamer)       | [Models](https://api.webraft.in/freeapi/models)            | Recovered from 5-month downtime due to the owner's health issues. Some instability in current service. |
 | [VoltAI](https://discord.gg/Jb8KAVEw4b)      | 178   | ✅ Allowed   | ❌          | [Zlnce](https://voltaisite.onrender.com)      | [Models](https://voltaisite.onrender.com/v1/models)        | API ran by a 'crackhead' (figuratively) who everyone thought went to prison.                           |
 | [Nustjourney](https://discord.gg/c2pyvjU3d3) | 146   | ✅ Allowed   | ❌          | [DOG4IK](https://github.com/nustai)           | [Models](https://nustjourney.mirandasite.online/v1/models) | Odd small API that is focused on Russians.                                                             |
 | [hcap.ai](https://discord.gg/NeRgKgdUXC)     | 145   | ✅ Allowed   | ❌          | [mehhovcki](https://github.com/mehhovcki-dev) | [Models](https://hcap.ai/v1/models)                        | Small API with new developers to the space. Some creativity.                                           |
@@ -84,6 +83,7 @@ To be added to this list, your API must:
 | ----------------------------------------- | ----- | ------------ | ----------- | ------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [exomlapi](https://discord.gg/m9KXeQbxEN) | 735   | ❌ Forbidden | ❌          | [meow_18838](https://rentry.co/hitlerofg4f) | [Models](https://api.exomlapi.com/v1/models) | [Owner](https://rentry.co/hitlerofg4f) is a [self-admitted](https://files.catbox.moe/qw5abc.png) horrible [being.](https://rentry.co/itsalwaysmeow) |
 | [NexeonAI](https://discord.gg/5DfYgqX9DU) | 409   | ❌ Forbidden | ❌          | [Sakuya](https://github.com/LiveGamer101)   | [Models](https://nexeonai.com/v1/models)     | Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent.                                               |
+| [NavyAPI](https://discord.gg/ezXZ8wpprc) | 367   | ✅ Allowed   | ❌          | [navy](https://api.navy)            | [Models](https://api.navy/v1/models)       | [Caught being a layer two on a better API service.](https://rentry.co/sillyandgoofychungus)            |
 
 </details>
 
